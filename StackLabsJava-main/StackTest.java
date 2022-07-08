@@ -1,7 +1,7 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name - Jeremiah Pitts
+//Name - 
 
 import java.util.Stack;
 import java.util.*;
