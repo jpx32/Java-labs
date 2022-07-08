@@ -1,7 +1,7 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name - Jeremiah Pitts
+//Name - 
 
 //ArrayList of ints
 //or
