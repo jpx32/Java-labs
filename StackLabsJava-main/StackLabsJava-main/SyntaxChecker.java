@@ -1,7 +1,8 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name - Jeremiah Pitts
+//Name - 
+
 import java.util.*;
 import static java.lang.System.*;
    
