@@ -1,7 +1,7 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name - Jeremiah PItts
+//Name - 
 
 import java.io.File;
 import java.io.IOException;
